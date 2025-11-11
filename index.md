@@ -14,6 +14,6 @@ Aqui estão as minhas visualizações desenvolvidas ao longo da disciplina **Vis
 
 | Projeto | Descrição | Link |
 |----------|------------|------|
-| Exercício 1 | Gráfico com Vega Lite | [Ver visualização](./bar_chart.html) |
+| Exercício 1 | Gráfico com Vega Lite | [Ver visualização](./vegalite-charts.html) |
 
 ---
