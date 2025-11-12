@@ -5,7 +5,6 @@ title: Visualizações de Dados
 
 # Visualizações de Dados
 
-Bem-vindo!  
 Aqui estão as minhas visualizações desenvolvidas ao longo da disciplina **Visualização de Dados**.
 
 ---
@@ -14,6 +13,6 @@ Aqui estão as minhas visualizações desenvolvidas ao longo da disciplina **Vis
 
 | Projeto | Descrição | Link |
 |----------|------------|------|
-| Exercício 1 | Gráfico com Vega Lite | [Ver visualização](./vegalite-charts.html) |
+| API Vega-Lite | Gráficos com Vega Lite | [Ver visualização](./vegalite-charts.html) |
 
 ---
